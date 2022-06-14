@@ -77,6 +77,10 @@ int main()
 
     }*/
 
+
+        //Задача 3
+
+
     setlocale(LC_ALL, "");
     float dohodZhel, zarp = 0, shtraf;
     int str, opozd, punkMen;
